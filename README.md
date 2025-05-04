@@ -1,2 +1,2 @@
-Esto es ITEA, pagina web para cursos de Ingles, realizado con django.
-Clonar y ejecutar py manage.py runserver.
+TEA es una plataforma web robusta y dinámica, desarrollada íntegramente con el potente framework de Django. Ha sido diseñada específicamente para ofrecer una experiencia de aprendizaje de inglés completa y efectiva a sus usuarios.
+Utiliza la herramienta de control de versiones Git para clonar el repositorio y ejecuta python manage.py runserver.
